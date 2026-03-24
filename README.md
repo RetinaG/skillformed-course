@@ -1,2 +1,0 @@
-# skillformed-app
-SkillFormedApp
